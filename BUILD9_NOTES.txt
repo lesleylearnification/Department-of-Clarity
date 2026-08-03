@@ -1,0 +1,8 @@
+DEPARTMENT OF CLARITY — BUILD 9
+
+- Restores the agreed Build 7 Victorian scientific field-guide, fantasy bestiary, brass bureaucracy, and airport-wayfinding visual direction.
+- Removes the full multi-device concept board from the case-selection screen.
+- Replaces unreadable case buttons with large archival case cards.
+- Shows only the correct dashboard preview for desktop, tablet, or mobile.
+- Reduces visual clutter while preserving the agreed look.
+- Keeps all 25 scenarios, scoring, dashboard, journal, and saved progress.

@@ -1,0 +1,8 @@
+DEPARTMENT OF CLARITY — BUILD 11
+
+- Incorporates the approved Build 11 desktop dashboard artwork.
+- Displays the complete dashboard at its natural aspect ratio with no left/right cropping.
+- Moves the three primary actions directly above Active Case Files inside the approved artwork.
+- Adds functional invisible hotspots over those visible buttons.
+- Uses a dedicated simplified mobile landing screen rather than squeezing or cropping the desktop dashboard.
+- Retains all 25 scenarios, gameplay, journal, dashboard, scoring, filtering, and saved progress.

@@ -1,0 +1,8 @@
+BUILD 7
+- Large readable case cards replacing tiny buttons.
+- Separate desktop, tablet, and mobile gameplay layouts.
+- Gameplay-first layout with artwork supporting rather than competing.
+- Museum archive presentation using brass plaques and specimen-card styling.
+- Decorative concept sheet removed from gameplay screens.
+- Gameplay expanded to dominate the viewport.
+- All 25 scenarios, dashboard, journal, and scoring retained.

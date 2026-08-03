@@ -1,0 +1,902 @@
+[
+  {
+    "id": "case-01",
+    "caseNumber": "1473-C",
+    "title": "The Flour Incident",
+    "speaker": "Royal Baker",
+    "question": "When should the Royal Bakery deliver the King's celebration cake?",
+    "proclamation": "When the frosting remembers tomorrow, let the cake arrive before yesterday becomes sufficiently ceremonial. The important ovens know.",
+    "bigBehavior": "Failing to Define Success Clearly",
+    "replacement": "Define what success looks like before work begins.",
+    "options": [
+      "Act on the most obvious interpretation.",
+      "Clarify the outcome, standard, and definition of done.",
+      "Use last year's approach and hope consistency counts."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "What does success look like?",
+        "evidence": "Evidence reveals that what does success look like was never made explicit."
+      },
+      {
+        "text": "Who is the audience or recipient?",
+        "evidence": "Evidence reveals that who is the audience or recipient was never made explicit."
+      },
+      {
+        "text": "What evidence confirms completion?",
+        "evidence": "Evidence reveals that what evidence confirms completion was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-02",
+    "caseNumber": "1474-C",
+    "title": "The Royal Dashboard",
+    "speaker": "Court Analyst",
+    "question": "What should the new kingdom dashboard show?",
+    "proclamation": "Let the numbers speak with the dignity of numbers, especially the important ones, which are obvious by their importance.",
+    "bigBehavior": "Failing to Define Success Clearly",
+    "replacement": "Define what success looks like before work begins.",
+    "options": [
+      "Act on the most obvious interpretation.",
+      "Clarify the outcome, standard, and definition of done.",
+      "Use last year's approach and hope consistency counts."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "What does success look like?",
+        "evidence": "Evidence reveals that what does success look like was never made explicit."
+      },
+      {
+        "text": "Who is the audience or recipient?",
+        "evidence": "Evidence reveals that who is the audience or recipient was never made explicit."
+      },
+      {
+        "text": "What evidence confirms completion?",
+        "evidence": "Evidence reveals that what evidence confirms completion was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-03",
+    "caseNumber": "1475-C",
+    "title": "Make It Better",
+    "speaker": "Royal Designer",
+    "question": "How should I improve the proclamation poster?",
+    "proclamation": "Improve it in the direction of improvement, but not so improved that it loses the original improvement.",
+    "bigBehavior": "Failing to Define Success Clearly",
+    "replacement": "Define what success looks like before work begins.",
+    "options": [
+      "Act on the most obvious interpretation.",
+      "Clarify the outcome, standard, and definition of done.",
+      "Use last year's approach and hope consistency counts."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "What does success look like?",
+        "evidence": "Evidence reveals that what does success look like was never made explicit."
+      },
+      {
+        "text": "Who is the audience or recipient?",
+        "evidence": "Evidence reveals that who is the audience or recipient was never made explicit."
+      },
+      {
+        "text": "What evidence confirms completion?",
+        "evidence": "Evidence reveals that what evidence confirms completion was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-04",
+    "caseNumber": "1476-C",
+    "title": "Customer Ready",
+    "speaker": "Royal Engineer",
+    "question": "When is the portal ready for citizens?",
+    "proclamation": "When the portal feels sufficiently portal-like, open it to the people, who will naturally understand the buttons.",
+    "bigBehavior": "Failing to Define Success Clearly",
+    "replacement": "Define what success looks like before work begins.",
+    "options": [
+      "Act on the most obvious interpretation.",
+      "Clarify the outcome, standard, and definition of done.",
+      "Use last year's approach and hope consistency counts."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "What does success look like?",
+        "evidence": "Evidence reveals that what does success look like was never made explicit."
+      },
+      {
+        "text": "Who is the audience or recipient?",
+        "evidence": "Evidence reveals that who is the audience or recipient was never made explicit."
+      },
+      {
+        "text": "What evidence confirms completion?",
+        "evidence": "Evidence reveals that what evidence confirms completion was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-05",
+    "caseNumber": "1477-C",
+    "title": "Executive Presentation",
+    "speaker": "Royal Scribe",
+    "question": "What should tomorrow's council presentation include?",
+    "proclamation": "Give them everything they need, but briefly, and in enough detail to avoid the burden of detail.",
+    "bigBehavior": "Failing to Define Success Clearly",
+    "replacement": "Define what success looks like before work begins.",
+    "options": [
+      "Act on the most obvious interpretation.",
+      "Clarify the outcome, standard, and definition of done.",
+      "Use last year's approach and hope consistency counts."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "What does success look like?",
+        "evidence": "Evidence reveals that what does success look like was never made explicit."
+      },
+      {
+        "text": "Who is the audience or recipient?",
+        "evidence": "Evidence reveals that who is the audience or recipient was never made explicit."
+      },
+      {
+        "text": "What evidence confirms completion?",
+        "evidence": "Evidence reveals that what evidence confirms completion was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-06",
+    "caseNumber": "1478-C",
+    "title": "Everything Is Urgent",
+    "speaker": "Royal Coordinator",
+    "question": "Which of today's requests comes first?",
+    "proclamation": "All priorities are first, although some are more first in ways that will become clear after they are late.",
+    "bigBehavior": "Failing to Establish Priorities",
+    "replacement": "Explicitly rank priorities and discuss tradeoffs.",
+    "options": [
+      "Start whichever request sounds loudest.",
+      "Rank priorities and make the tradeoff explicit.",
+      "Treat everything as equally urgent."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Which outcome matters most?",
+        "evidence": "Evidence reveals that which outcome matters most was never made explicit."
+      },
+      {
+        "text": "What can be delayed safely?",
+        "evidence": "Evidence reveals that what can be delayed safely was never made explicit."
+      },
+      {
+        "text": "What should stop if priorities change?",
+        "evidence": "Evidence reveals that what should stop if priorities change was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-07",
+    "caseNumber": "1479-C",
+    "title": "Fast or Perfect",
+    "speaker": "Master Armorer",
+    "question": "Should the ceremonial armor be fast or flawless?",
+    "proclamation": "Proceed with perfect speed and speedy perfection, without sacrificing either thing to the other thing.",
+    "bigBehavior": "Failing to Establish Priorities",
+    "replacement": "Explicitly rank priorities and discuss tradeoffs.",
+    "options": [
+      "Start whichever request sounds loudest.",
+      "Rank priorities and make the tradeoff explicit.",
+      "Treat everything as equally urgent."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Which outcome matters most?",
+        "evidence": "Evidence reveals that which outcome matters most was never made explicit."
+      },
+      {
+        "text": "What can be delayed safely?",
+        "evidence": "Evidence reveals that what can be delayed safely was never made explicit."
+      },
+      {
+        "text": "What should stop if priorities change?",
+        "evidence": "Evidence reveals that what should stop if priorities change was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-08",
+    "caseNumber": "1480-C",
+    "title": "Impossible Deadline",
+    "speaker": "Royal Archivist",
+    "question": "Can the archives be catalogued by sunrise?",
+    "proclamation": "Time is merely a sequence of confident moments. Complete the work before the final one.",
+    "bigBehavior": "Failing to Establish Priorities",
+    "replacement": "Explicitly rank priorities and discuss tradeoffs.",
+    "options": [
+      "Start whichever request sounds loudest.",
+      "Rank priorities and make the tradeoff explicit.",
+      "Treat everything as equally urgent."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Which outcome matters most?",
+        "evidence": "Evidence reveals that which outcome matters most was never made explicit."
+      },
+      {
+        "text": "What can be delayed safely?",
+        "evidence": "Evidence reveals that what can be delayed safely was never made explicit."
+      },
+      {
+        "text": "What should stop if priorities change?",
+        "evidence": "Evidence reveals that what should stop if priorities change was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-09",
+    "caseNumber": "1481-C",
+    "title": "Three Bosses",
+    "speaker": "Inter-Ministry Liaison",
+    "question": "Whose request should I follow?",
+    "proclamation": "Serve all masters equally, particularly the one whose disappointment will be discovered last.",
+    "bigBehavior": "Failing to Establish Priorities",
+    "replacement": "Explicitly rank priorities and discuss tradeoffs.",
+    "options": [
+      "Start whichever request sounds loudest.",
+      "Rank priorities and make the tradeoff explicit.",
+      "Treat everything as equally urgent."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Which outcome matters most?",
+        "evidence": "Evidence reveals that which outcome matters most was never made explicit."
+      },
+      {
+        "text": "What can be delayed safely?",
+        "evidence": "Evidence reveals that what can be delayed safely was never made explicit."
+      },
+      {
+        "text": "What should stop if priorities change?",
+        "evidence": "Evidence reveals that what should stop if priorities change was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-10",
+    "caseNumber": "1482-C",
+    "title": "The CEO Raven",
+    "speaker": "Royal Messenger",
+    "question": "The High King sent a raven saying 'drop everything.' What now?",
+    "proclamation": "Drop everything immediately, except the things that should not be dropped, which remain everything until clarified.",
+    "bigBehavior": "Failing to Establish Priorities",
+    "replacement": "Explicitly rank priorities and discuss tradeoffs.",
+    "options": [
+      "Start whichever request sounds loudest.",
+      "Rank priorities and make the tradeoff explicit.",
+      "Treat everything as equally urgent."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Which outcome matters most?",
+        "evidence": "Evidence reveals that which outcome matters most was never made explicit."
+      },
+      {
+        "text": "What can be delayed safely?",
+        "evidence": "Evidence reveals that what can be delayed safely was never made explicit."
+      },
+      {
+        "text": "What should stop if priorities change?",
+        "evidence": "Evidence reveals that what should stop if priorities change was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-11",
+    "caseNumber": "1483-C",
+    "title": "I Thought You Were Doing It",
+    "speaker": "Twin Stewards",
+    "question": "Who is arranging the visiting delegation?",
+    "proclamation": "Responsibility belongs to whoever responsibly recognizes the responsibility first.",
+    "bigBehavior": "Failing to Clarify Ownership",
+    "replacement": "Clearly assign ownership, decision authority, and accountability.",
+    "options": [
+      "Let everyone contribute and sort out ownership later.",
+      "Name one owner, approver, and escalation path.",
+      "Assume the most senior person owns it."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Who owns the final result?",
+        "evidence": "Evidence reveals that who owns the final result was never made explicit."
+      },
+      {
+        "text": "Who has decision authority?",
+        "evidence": "Evidence reveals that who has decision authority was never made explicit."
+      },
+      {
+        "text": "When should this be escalated?",
+        "evidence": "Evidence reveals that when should this be escalated was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-12",
+    "caseNumber": "1484-C",
+    "title": "Who Approves?",
+    "speaker": "Royal Printer",
+    "question": "Who signs off on the new decree?",
+    "proclamation": "The decree is approved when approval has sufficiently occurred in the approving places.",
+    "bigBehavior": "Failing to Clarify Ownership",
+    "replacement": "Clearly assign ownership, decision authority, and accountability.",
+    "options": [
+      "Let everyone contribute and sort out ownership later.",
+      "Name one owner, approver, and escalation path.",
+      "Assume the most senior person owns it."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Who owns the final result?",
+        "evidence": "Evidence reveals that who owns the final result was never made explicit."
+      },
+      {
+        "text": "Who has decision authority?",
+        "evidence": "Evidence reveals that who has decision authority was never made explicit."
+      },
+      {
+        "text": "When should this be escalated?",
+        "evidence": "Evidence reveals that when should this be escalated was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-13",
+    "caseNumber": "1485-C",
+    "title": "Should I Decide?",
+    "speaker": "Harbor Master",
+    "question": "May I reroute ships during the storm?",
+    "proclamation": "Use judgment boldly, provided it matches the judgment I would have used after knowing the result.",
+    "bigBehavior": "Failing to Clarify Ownership",
+    "replacement": "Clearly assign ownership, decision authority, and accountability.",
+    "options": [
+      "Let everyone contribute and sort out ownership later.",
+      "Name one owner, approver, and escalation path.",
+      "Assume the most senior person owns it."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Who owns the final result?",
+        "evidence": "Evidence reveals that who owns the final result was never made explicit."
+      },
+      {
+        "text": "Who has decision authority?",
+        "evidence": "Evidence reveals that who has decision authority was never made explicit."
+      },
+      {
+        "text": "When should this be escalated?",
+        "evidence": "Evidence reveals that when should this be escalated was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-14",
+    "caseNumber": "1486-C",
+    "title": "Whose Customer?",
+    "speaker": "Guild Representative",
+    "question": "Who owns the merchant's complaint?",
+    "proclamation": "The customer belongs to all of us, which is why ownership by any particular us would be unnecessarily divisive.",
+    "bigBehavior": "Failing to Clarify Ownership",
+    "replacement": "Clearly assign ownership, decision authority, and accountability.",
+    "options": [
+      "Let everyone contribute and sort out ownership later.",
+      "Name one owner, approver, and escalation path.",
+      "Assume the most senior person owns it."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Who owns the final result?",
+        "evidence": "Evidence reveals that who owns the final result was never made explicit."
+      },
+      {
+        "text": "Who has decision authority?",
+        "evidence": "Evidence reveals that who has decision authority was never made explicit."
+      },
+      {
+        "text": "When should this be escalated?",
+        "evidence": "Evidence reveals that when should this be escalated was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-15",
+    "caseNumber": "1487-C",
+    "title": "Escalate or Solve?",
+    "speaker": "Junior Alchemist",
+    "question": "When should I escalate the unstable potion?",
+    "proclamation": "Escalate when it becomes important, but solve it independently before anyone notices its importance.",
+    "bigBehavior": "Failing to Clarify Ownership",
+    "replacement": "Clearly assign ownership, decision authority, and accountability.",
+    "options": [
+      "Let everyone contribute and sort out ownership later.",
+      "Name one owner, approver, and escalation path.",
+      "Assume the most senior person owns it."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Who owns the final result?",
+        "evidence": "Evidence reveals that who owns the final result was never made explicit."
+      },
+      {
+        "text": "Who has decision authority?",
+        "evidence": "Evidence reveals that who has decision authority was never made explicit."
+      },
+      {
+        "text": "When should this be escalated?",
+        "evidence": "Evidence reveals that when should this be escalated was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-16",
+    "caseNumber": "1488-C",
+    "title": "Any Questions?",
+    "speaker": "Royal Apprentice",
+    "question": "Do I understand my new assignment?",
+    "proclamation": "Understanding has been provided. Questions would therefore indicate a disappointing surplus of uncertainty.",
+    "bigBehavior": "Failing to Confirm Understanding",
+    "replacement": "Ask the employee to explain their understanding in their own words.",
+    "options": [
+      "Ask 'Any questions?' and move on.",
+      "Use teach-back to verify the other person's understanding.",
+      "Repeat the same instruction more slowly."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "How would you explain the assignment?",
+        "evidence": "Evidence reveals that how would you explain the assignment was never made explicit."
+      },
+      {
+        "text": "What will you do first?",
+        "evidence": "Evidence reveals that what will you do first was never made explicit."
+      },
+      {
+        "text": "What could block you?",
+        "evidence": "Evidence reveals that what could block you was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-17",
+    "caseNumber": "1489-C",
+    "title": "Working From Home",
+    "speaker": "Remote Scryer",
+    "question": "May I work from my tower tomorrow?",
+    "proclamation": "Of course, under the normal conditions, which are universally known to those who already know them.",
+    "bigBehavior": "Failing to Confirm Understanding",
+    "replacement": "Ask the employee to explain their understanding in their own words.",
+    "options": [
+      "Ask 'Any questions?' and move on.",
+      "Use teach-back to verify the other person's understanding.",
+      "Repeat the same instruction more slowly."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "How would you explain the assignment?",
+        "evidence": "Evidence reveals that how would you explain the assignment was never made explicit."
+      },
+      {
+        "text": "What will you do first?",
+        "evidence": "Evidence reveals that what will you do first was never made explicit."
+      },
+      {
+        "text": "What could block you?",
+        "evidence": "Evidence reveals that what could block you was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-18",
+    "caseNumber": "1490-C",
+    "title": "The Cancelled Review",
+    "speaker": "Royal Cartographer",
+    "question": "The review was cancelled. Should I proceed?",
+    "proclamation": "Proceed only after review, unless delay would be inconvenient, in which case the review has occurred spiritually.",
+    "bigBehavior": "Failing to Confirm Understanding",
+    "replacement": "Ask the employee to explain their understanding in their own words.",
+    "options": [
+      "Ask 'Any questions?' and move on.",
+      "Use teach-back to verify the other person's understanding.",
+      "Repeat the same instruction more slowly."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "How would you explain the assignment?",
+        "evidence": "Evidence reveals that how would you explain the assignment was never made explicit."
+      },
+      {
+        "text": "What will you do first?",
+        "evidence": "Evidence reveals that what will you do first was never made explicit."
+      },
+      {
+        "text": "What could block you?",
+        "evidence": "Evidence reveals that what could block you was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-19",
+    "caseNumber": "1491-C",
+    "title": "I Thought You Meant",
+    "speaker": "Royal Researcher",
+    "question": "What does 'finish the report' mean?",
+    "proclamation": "Finish it completely enough to be useful, but not so complete that completion delays its timely completeness.",
+    "bigBehavior": "Failing to Confirm Understanding",
+    "replacement": "Ask the employee to explain their understanding in their own words.",
+    "options": [
+      "Ask 'Any questions?' and move on.",
+      "Use teach-back to verify the other person's understanding.",
+      "Repeat the same instruction more slowly."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "How would you explain the assignment?",
+        "evidence": "Evidence reveals that how would you explain the assignment was never made explicit."
+      },
+      {
+        "text": "What will you do first?",
+        "evidence": "Evidence reveals that what will you do first was never made explicit."
+      },
+      {
+        "text": "What could block you?",
+        "evidence": "Evidence reveals that what could block you was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-20",
+    "caseNumber": "1492-C",
+    "title": "Promotion Surprise",
+    "speaker": "Royal Deputy",
+    "question": "Am I on track for promotion?",
+    "proclamation": "Your progress is progressing in the expected direction, subject to expectations that will be explained if progress does not progress.",
+    "bigBehavior": "Failing to Confirm Understanding",
+    "replacement": "Ask the employee to explain their understanding in their own words.",
+    "options": [
+      "Ask 'Any questions?' and move on.",
+      "Use teach-back to verify the other person's understanding.",
+      "Repeat the same instruction more slowly."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "How would you explain the assignment?",
+        "evidence": "Evidence reveals that how would you explain the assignment was never made explicit."
+      },
+      {
+        "text": "What will you do first?",
+        "evidence": "Evidence reveals that what will you do first was never made explicit."
+      },
+      {
+        "text": "What could block you?",
+        "evidence": "Evidence reveals that what could block you was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-21",
+    "caseNumber": "1493-C",
+    "title": "Radio Silence",
+    "speaker": "Bridge Engineer",
+    "question": "Should we check the bridge before completion?",
+    "proclamation": "Progress is best observed at the end, when it can no longer distract from itself.",
+    "bigBehavior": "Failing to Check Alignment Early",
+    "replacement": "Schedule checkpoints to verify alignment and adjust before errors compound.",
+    "options": [
+      "Wait until the work is finished.",
+      "Set checkpoints around the highest-risk milestones.",
+      "Check constantly without a specific purpose."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Which milestone carries the greatest risk?",
+        "evidence": "Evidence reveals that which milestone carries the greatest risk was never made explicit."
+      },
+      {
+        "text": "What evidence should be reviewed?",
+        "evidence": "Evidence reveals that what evidence should be reviewed was never made explicit."
+      },
+      {
+        "text": "Who should attend the checkpoint?",
+        "evidence": "Evidence reveals that who should attend the checkpoint was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-22",
+    "caseNumber": "1494-C",
+    "title": "The Last-Minute Rewrite",
+    "speaker": "Royal Copyist",
+    "question": "When should the final manuscript be reviewed?",
+    "proclamation": "Review it when it is final, because reviewing it earlier would make it less final.",
+    "bigBehavior": "Failing to Check Alignment Early",
+    "replacement": "Schedule checkpoints to verify alignment and adjust before errors compound.",
+    "options": [
+      "Wait until the work is finished.",
+      "Set checkpoints around the highest-risk milestones.",
+      "Check constantly without a specific purpose."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Which milestone carries the greatest risk?",
+        "evidence": "Evidence reveals that which milestone carries the greatest risk was never made explicit."
+      },
+      {
+        "text": "What evidence should be reviewed?",
+        "evidence": "Evidence reveals that what evidence should be reviewed was never made explicit."
+      },
+      {
+        "text": "Who should attend the checkpoint?",
+        "evidence": "Evidence reveals that who should attend the checkpoint was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-23",
+    "caseNumber": "1495-C",
+    "title": "I Assumed You Were Fine",
+    "speaker": "Royal Scout",
+    "question": "I have been stuck for a week. Did you know?",
+    "proclamation": "No news is excellent news, particularly when the news has become too embarrassed to report itself.",
+    "bigBehavior": "Failing to Check Alignment Early",
+    "replacement": "Schedule checkpoints to verify alignment and adjust before errors compound.",
+    "options": [
+      "Wait until the work is finished.",
+      "Set checkpoints around the highest-risk milestones.",
+      "Check constantly without a specific purpose."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Which milestone carries the greatest risk?",
+        "evidence": "Evidence reveals that which milestone carries the greatest risk was never made explicit."
+      },
+      {
+        "text": "What evidence should be reviewed?",
+        "evidence": "Evidence reveals that what evidence should be reviewed was never made explicit."
+      },
+      {
+        "text": "Who should attend the checkpoint?",
+        "evidence": "Evidence reveals that who should attend the checkpoint was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-24",
+    "caseNumber": "1496-C",
+    "title": "Moving Goalposts",
+    "speaker": "Festival Director",
+    "question": "Why does the success standard keep changing?",
+    "proclamation": "The target has not moved. It has matured into a more strategically located target.",
+    "bigBehavior": "Failing to Check Alignment Early",
+    "replacement": "Schedule checkpoints to verify alignment and adjust before errors compound.",
+    "options": [
+      "Wait until the work is finished.",
+      "Set checkpoints around the highest-risk milestones.",
+      "Check constantly without a specific purpose."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Which milestone carries the greatest risk?",
+        "evidence": "Evidence reveals that which milestone carries the greatest risk was never made explicit."
+      },
+      {
+        "text": "What evidence should be reviewed?",
+        "evidence": "Evidence reveals that what evidence should be reviewed was never made explicit."
+      },
+      {
+        "text": "Who should attend the checkpoint?",
+        "evidence": "Evidence reveals that who should attend the checkpoint was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  },
+  {
+    "id": "case-25",
+    "caseNumber": "1497-C",
+    "title": "Annual Review Shock",
+    "speaker": "Royal Clerk",
+    "question": "Why am I hearing this criticism for the first time?",
+    "proclamation": "Feedback is most powerful when accumulated quietly and released during a ceremonial quarter.",
+    "bigBehavior": "Failing to Check Alignment Early",
+    "replacement": "Schedule checkpoints to verify alignment and adjust before errors compound.",
+    "options": [
+      "Wait until the work is finished.",
+      "Set checkpoints around the highest-risk milestones.",
+      "Check constantly without a specific purpose."
+    ],
+    "optimalIndex": 1,
+    "questions": [
+      {
+        "text": "Which milestone carries the greatest risk?",
+        "evidence": "Evidence reveals that which milestone carries the greatest risk was never made explicit."
+      },
+      {
+        "text": "What evidence should be reviewed?",
+        "evidence": "Evidence reveals that what evidence should be reviewed was never made explicit."
+      },
+      {
+        "text": "Who should attend the checkpoint?",
+        "evidence": "Evidence reveals that who should attend the checkpoint was never made explicit."
+      }
+    ],
+    "cascade": [
+      "The team acts on a plausible interpretation.",
+      "A hidden assumption becomes an operational decision.",
+      "The decision creates rework, delay, and a visibly exhausted clerk.",
+      "The Oracle describes the result as 'unexpectedly educational.'"
+    ]
+  }
+]

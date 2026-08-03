@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#102f42">
+<title>Department of Clarity | Build 10</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <img class="brand-art" src="assets/brand-header.jpg" alt="Department of Clarity">
+  <div class="header-actions">
+    <span class="triplicate-seal">3/3</span>
+    <button id="journalBtn">FIELD JOURNAL</button>
+  </div>
+</header>
+
+<nav class="wayfinding" aria-label="Primary navigation">
+  <button data-v="landing"><b>DEPARTMENT HOME</b><small>Return to headquarters</small></button>
+  <button data-v="cases"><b>ACTIVE CASES</b><small>Choose a crisis</small></button>
+  <button data-v="dashboard"><b>OFFICER DASHBOARD</b><small>Review progress</small></button>
+  <button data-v="journal"><b>FIELD JOURNAL</b><small>Save reflections</small></button>
+  <span><b>⚠ ASSUMPTIONS MAY VARY</b><small>Proceed with questions</small></span>
+</nav>
+
+<main>
+<section id="landing" class="view active landing-view">
+  <div class="desktop-dashboard-shell">
+    <img class="approved-dashboard" src="assets/build11-dashboard.jpg"
+         alt="Department of Clarity desktop dashboard with active cases, officer progress, field journal, and quick actions">
+
+    <div class="dashboard-hotspots" aria-label="Dashboard quick actions">
+      <button class="hotspot hotspot-cases" data-v="cases" aria-label="Open Active Case Files">
+        <span>Open Active Case Files</span>
+      </button>
+      <button class="hotspot hotspot-dashboard" data-v="dashboard" aria-label="View Officer Dashboard">
+        <span>View Officer Dashboard</span>
+      </button>
+      <button class="hotspot hotspot-journal" data-v="journal" aria-label="Open Field Journal">
+        <span>Open Field Journal</span>
+      </button>
+    </div>
+  </div>
+
+  <div class="mobile-dashboard-home">
+    <div class="mobile-title">
+      <img src="assets/brand-header.jpg" alt="Department of Clarity">
+      <p>The Oracle speaks in mysteries. You prevent organizational disasters.</p>
+    </div>
+    <div class="mobile-home-actions">
+      <button data-v="cases">OPEN ACTIVE CASE FILES</button>
+      <button data-v="dashboard">VIEW OFFICER DASHBOARD</button>
+      <button data-v="journal">OPEN FIELD JOURNAL</button>
+    </div>
+    <div class="mobile-home-note">
+      <strong>REMEMBER:</strong> Assumptions compound. Clarity saves.
+    </div>
+  </div>
+</section>
+
+<section id="cases" class="view">
+  <div class="archive-heading">
+    <div>
+      <p class="kicker">ACTIVE CASE ARCHIVE</p>
+      <h1>Cases awaiting clarification</h1>
+      <p>Choose a case file. Five cases appear at a time so every title, behavior, status, and action remains easy to read.</p>
+    </div>
+    <img src="assets/bestiary.jpg" alt="Field guide to bureaucratic creatures">
+  </div>
+
+  <div class="archive-controls">
+    <label>Filter by Big Behavior
+      <select id="behaviorFilter"><option value="all">All five behaviors</option></select>
+    </label>
+    <label>Status
+      <select id="statusFilter">
+        <option value="all">All cases</option>
+        <option value="new">Not started</option>
+        <option value="complete">Completed</option>
+      </select>
+    </label>
+    <p id="caseCount" aria-live="polite"></p>
+  </div>
+
+  <div class="case-carousel">
+    <button id="prevCases" class="carousel-arrow" aria-label="Previous case files">‹</button>
+    <div id="caseGrid" class="case-grid"></div>
+    <button id="nextCases" class="carousel-arrow" aria-label="Next case files">›</button>
+  </div>
+  <div id="casePages" class="case-pages" aria-live="polite"></div>
+</section>
+
+<section id="play" class="view">
+  <div class="top">
+    <button id="back">← CASE ARCHIVE</button>
+    <div><small id="caseNo"></small><h2 id="caseTitle"></h2></div>
+    <b id="score">0%</b>
+  </div>
+
+  <div class="case-shell">
+    <aside class="case-sidebar">
+      <div class="metal-label">YOUR ASSIGNMENT</div>
+      <ol>
+        <li>Interpret the proclamation.</li>
+        <li>Ask evidence-seeking questions.</li>
+        <li>Watch the consequence cascade.</li>
+        <li>Identify the hidden assumption.</li>
+      </ol>
+      <dl>
+        <dt>Stake level</dt><dd>Severe</dd>
+        <dt>Forms required</dt><dd>Triplicate</dd>
+        <dt>Current morale</dt><dd>Decorative</dd>
+      </dl>
+    </aside>
+
+    <div class="case-content">
+      <div class="duo">
+        <article class="oracle-panel">
+          <img src="assets/oracle-character.jpg" alt="The Oracle, an engraved fantasy bureaucrat">
+          <div>
+            <b id="speaker"></b>
+            <p id="question"></p>
+            <h3>THE ORACLE'S PROCLAMATION</h3>
+            <blockquote id="proclamation"></blockquote>
+          </div>
+        </article>
+        <aside class="dco-panel">
+          <img src="assets/dco-character.jpg" alt="The Damage Control Officer, an engraved dragon-like official">
+          <div><b>DAMAGE CONTROL OFFICER</b><p id="aside">“The Oracle has spoken. Regrettably, the rest of us still have to work.”</p></div>
+        </aside>
+      </div>
+      <div class="phase" id="phase"></div>
+      <div id="stage"></div>
+    </div>
+  </div>
+</section>
+
+<section id="dashboard" class="view panel">
+  <div class="dashboard-heading">
+    <div>
+      <p class="kicker">OFFICER DASHBOARD</p>
+      <h1>Progress & Records</h1>
+      <p>Your current rank, mastery, case history, and Five Big Behavior progress.</p>
+    </div>
+    <img class="dashboard-creature" src="assets/dco-character.jpg" alt="Damage Control Officer reviewing the records">
+  </div>
+  <div class="metrics">
+    <div><span>Completed</span><strong id="done">0/25</strong></div>
+    <div><span>Average</span><strong id="avg">0%</strong></div>
+    <div><span>Rank</span><strong id="rank">Probationary Clarifier</strong></div>
+  </div>
+  <div class="progress-heading"><h2>Five Big Behaviors</h2><p>Complete all five cases in each category.</p></div>
+  <div id="progress"></div>
+</section>
+
+<section id="journal" class="view panel">
+  <div class="journal-heading">
+    <div><p class="kicker">FIELD JOURNAL</p><h1>Saved Reflections</h1><p>Record the assumption you noticed and the question you will use next time.</p></div>
+    <img src="assets/dco-character.jpg" alt="Damage Control Officer reviewing the journal">
+  </div>
+  <div class="journal-layout">
+    <div class="journal-form">
+      <label>Case<select id="jc"></select></label>
+      <label>What assumption did you notice?<textarea id="ja" rows="4"></textarea></label>
+      <label>What question will you ask next time?<textarea id="jq" rows="4"></textarea></label>
+      <button id="save">SAVE IN TRIPLICATE</button>
+    </div>
+    <div id="entries" class="entries"></div>
+  </div>
+</section>
+</main>
+
+<footer>A WORLD OF QUESTIONABLE ASSUMPTIONS, IMPOSSIBLE PROCEDURES, AND GLORIOUSLY CONFUSING PURPOSE.</footer>
+<script src="game.js"></script>
+</body>
+</html>

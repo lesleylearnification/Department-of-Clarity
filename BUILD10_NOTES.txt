@@ -1,0 +1,8 @@
+DEPARTMENT OF CLARITY — BUILD 10
+
+- Restored and locked the approved Victorian scientific field-guide, fantasy bestiary, brass bureaucracy, and airport-wayfinding art direction.
+- Added a true full-screen landing page using the approved Build 10 visual.
+- Replaced the long archive grid with an art-rich five-case archival drawer on desktop.
+- Added responsive pagination: five desktop cards, three compact-desktop cards, two tablet cards, and one mobile card.
+- Kept all existing gameplay, all 25 scenarios, journal, scoring, dashboard, and saved progress.
+- Simplified clutter without removing atmosphere.

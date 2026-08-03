@@ -1,0 +1,7 @@
+BUILD 11
+• Approved dashboard artwork incorporated
+• Desktop dashboard shown in full without cropping
+• Primary buttons positioned directly above Active Case Files
+• Functional dashboard button hotspots
+• Dedicated mobile landing interface
+• All 25 scenarios and existing functionality retained
